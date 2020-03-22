@@ -23,8 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](images\Learn.jpg)
 ```
+<img
+     src="/images/world.jpg"
+     alt="Grapefruit slice atop a pile of other slices">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
