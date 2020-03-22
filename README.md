@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](images\Learn.jpg)
 ```
 <img
-     src="/images/world.jpg"
+     src="/images/unnamed.png"
      alt="Grapefruit slice atop a pile of other slices">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
