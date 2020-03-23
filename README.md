@@ -11,9 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Blue Sky
-## Red Flower
-### My House
+#  README.md是如何生效变为shangchang.github.io网页上的内容
+## 将海绵宝宝修改成小图片,查找CSS如何生效作用与整个文档。(不适用行内样式)
+### My Target
+  1. 自考南京大学计算机及应用专业,2021年7月取得毕业证
+  时间线2020-03-23至2020-10-21
+  2. 开发个人网站,个人博客
+  3. 开发小程序2个
+  4. 开发CRM系统2个
+  5. 开发移动客户端2个
+
 
 - Bulleted
 - List
@@ -27,7 +34,7 @@ Syntax highlighted code block
 ```
 <img
      src="/images/unnamed.png"
-     alt="Grapefruit slice atop a pile of other slices">
+     alt="海绵宝宝">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
